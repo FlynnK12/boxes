@@ -1,0 +1,54 @@
+.yellowBox {
+    border:1px solid #cccccc;
+    width:300px;
+    height:150px;
+    text-align:center;
+    border-radius: 15px;
+    box-shadow:-5px 5px 5px #888888;
+    background-color: rgb(238, 214, 178);
+    font-size: 16px;
+    color:black;
+    font-family:'Times New Roman', Times, serif
+    position: relative;
+    margin: 2% 0% 0% 1%;
+    padding: 15px 15px 15px 15px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.blueBox {
+    border:1px solid #cccccc;
+    width:300px;
+    height:150px;
+    text-align:center;
+    border-radius: 15px;
+    box-shadow:-5px 5px 5px #888888;
+    background-color: rgb(144, 187, 187);
+    font-size: 16px;
+    color:black;
+    font-family:'Times New Roman', Times, serif
+    position: relative;
+    margin: 2% 0% 0% 1%;
+    padding: 15px 15px 15px 15px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.redBox {
+    border:1px solid #cccccc;
+    width:300px;
+    height:150px;
+    text-align:center;
+    border-radius: 15px;
+    box-shadow:-5px 5px 5px #888888;
+    background-color: rgb(206, 120, 131);
+    font-size: 16px;
+    color:black;
+    font-family:'Times New Roman', Times, serif
+    position: relative;
+    margin: 2% 0% 0% 1%;
+    padding: 15px 15px 15px 15px;
+    line-height: 25px;
+    text-align: justify;
+}
+
